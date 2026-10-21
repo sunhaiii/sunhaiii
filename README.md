@@ -10,7 +10,7 @@ LLM assistants, AI agents, speech services and ML models for enterprise clients,
 #### What I've been working on
 
 | Period | Project | Stack |
-|---|---|---|---|
+|---|---|---|
 | 2026.07 – now | **Chemical manufacturing process ML** — wastewater COD prediction (in operation), CHP plant fuel consumption forecasting, process-to-quality lag-correlation analysis | Python, LightGBM, XGBoost, Pandas |
 | 2026.05 – 06 | **Microsoft Copilot AI agents** — LCA support agent, substitute worker matching agent, plus hands-on agent-building training for non-developers *(LCA session rated #1 of all sessions)* | Copilot Studio |
 | 2026.02 – 05 | **Real-time interpretation service** — speech-to-speech interpretation pipeline | STT, TTS, LLM |
