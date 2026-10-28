@@ -15,9 +15,9 @@
 
 ## About me
 
-I work on AI projects for real business and industrial environments, <br>
-including **LLM assistants, AI agents, speech services, and machine learning models**. <br>
-I am comfortable with problems that are not clearly defined at the beginning. <br>
+“Thanks for looking out for us. I’d like to keep working with you.” <br>
+
+I’ve been fortunate to hear words like this from both teammates and clients, and I value that kind of trust as much as the technical work itself.
 
 <br>
 
