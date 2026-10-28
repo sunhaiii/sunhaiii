@@ -28,7 +28,7 @@ Sometimes the client already knows what they want, and sometimes the first part 
 | Period | Project | What I worked on | Stack |
 |:--|:--|:--|:--|
 | 2026.07 – now | **Chemical Manufacturing ML** | Wastewater COD prediction, CHP fuel consumption forecasting, and analysis of relationships between process variables and product quality | Python · LightGBM · XGBoost · Pandas |
-| 2026.05 – 06 | **Microsoft Copilot AI Agents** | Built an LCA support agent and a substitute-worker matching agent; supported hands-on Copilot agent training for non-developers | Copilot Studio · LLM |
+| 2026.05 – 06 | **[Microsoft Copilot AI Agents](https://github.com/sunhaiii/CopilotStudioAgentCaseStudies)** | Built an LCA support agent and a substitute-worker matching agent; supported hands-on Copilot agent training for non-developers | Copilot Studio · LLM |
 | 2026.02 – 05 | **[Real-Time Interpretation Service](https://github.com/sunhaiii/RealTimeInterpretationService)** | Developed a speech-to-speech interpretation pipeline combining speech recognition, translation, and speech synthesis | STT · TTS · LLM |
 | 2025.07 – 2026.04 | **[Construction Site AI Assistant](https://github.com/sunhaiii/ConstructionSiteAssistant-CaseStudy)** | Built a domain-specific assistant for construction-site data, including agent workflows, RAG, Text2SQL, and database schema design | LangChain · LangGraph · RAG · Text2SQL |
 
