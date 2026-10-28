@@ -16,10 +16,8 @@
 ## About me
 
 I work on AI projects for real business and industrial environments, <br>
-including **LLM assistants, AI agents, speech services, and machine learning models**.
-
+including **LLM assistants, AI agents, speech services, and machine learning models**. <br>
 I am comfortable with problems that are not clearly defined at the beginning. <br>
-Sometimes the client already knows what they want, and sometimes the first part of the job is figuring out what should actually be built.
 
 <br>
 
